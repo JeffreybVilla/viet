@@ -2,770 +2,913 @@
   {
     "vietnamese": "Chào mừng!",
     "english": "Welcome!",
-    "audio": "chao_mung.mp3"
+    "audio": "chao_mung.mp3",
+    "mnemonic": "Doormat yelling 'chào mừng!' like a kung fu master shouting 'chow mung!' when someone steps on it."
   },
   {
     "vietnamese": "Xin chào! Bạn có khỏe không?",
     "english": "Hello! How are you?",
-    "audio": "xin_chao_ban_co_khoe_khong.mp3"
+    "audio": "xin_chao_ban_co_khoe_khong.mp3",
+    "mnemonic": "Picture a robot named Xin handing you a banana and asking if you're okay."
   },
   {
     "vietnamese": "Tên tôi là Mikel.",
     "english": "My name is Mikel.",
-    "audio": "ten_toi_la_mikel.mp3"
+    "audio": "ten_toi_la_mikel.mp3",
+    "mnemonic": "Your shirt blinking 'tên tôi là mikel' like a name badge at a tech conference."
   },
   {
     "vietnamese": "Bạn tên là gì?",
     "english": "What's your name?",
-    "audio": "ban_ten_la_gi.mp3"
+    "audio": "ban_ten_la_gi.mp3",
+    "mnemonic": "A sandwich named Bánh is asking for your name before introducing itself."
   },
   {
     "vietnamese": "Rất vui được gặp bạn.",
     "english": "Nice to meet you.",
-    "audio": "rat_vui_duoc_gap_ban.mp3"
+    "audio": "rat_vui_duoc_gap_ban.mp3",
+    "mnemonic": "Picture a rat in a tuxedo saying 'vui được gặp bạn' with a deep bow."
   },
   {
     "vietnamese": "Bạn nói được bao nhiêu ngôn ngữ?",
     "english": "How many languages do you speak?",
-    "audio": "ban_noi_duoc_bao_nhieu_ngon_ngu.mp3"
+    "audio": "ban_noi_duoc_bao_nhieu_ngon_ngu.mp3",
+    "mnemonic": "Speech bubbles flying out of your mouth like confetti at a party."
   },
   {
     "vietnamese": "Tôi nói được mười hai thứ tiếng.",
     "english": "I speak twelve languages.",
-    "audio": "toi_noi_duoc_muoi_hai_thu_tieng.mp3"
+    "audio": "toi_noi_duoc_muoi_hai_thu_tieng.mp3",
+    "mnemonic": "You're juggling 12 talking dictionaries that keep shouting languages."
   },
   {
     "vietnamese": "Học ngôn ngữ thật dễ dàng.",
     "english": "Learning languages is easy.",
-    "audio": "hoc_ngon_ngu_that_de_dang.mp3"
+    "audio": "hoc_ngon_ngu_that_de_dang.mp3",
+    "mnemonic": "A wizard zaps flashcards into parrots that start talking to you."
   },
   {
     "vietnamese": "Với văn bản này, bạn có thể học hơn một trăm câu trong một tuần.",
     "english": "With this text, you can learn more than one hundred sentences in one week.",
-    "audio": "voi_van_ban_nay_ban_co_the_hoc_hon_mot_tram_cau_trong_mot_tuan.mp3"
+    "audio": "voi_van_ban_nay_ban_co_the_hoc_hon_mot_tram_cau_trong_mot_tuan.mp3",
+    "mnemonic": "Scroll out a giant 'văn bản' across a football field with each yard line speaking a sentence."
   },
   {
     "vietnamese": "Điều này là đủ để có những cuộc trò chuyện đơn giản.",
     "english": "This is enough to have simple conversations.",
-    "audio": "dieu_nay_la_du_de_co_nhung_cuoc_tro_chuyen_don_gian.mp3"
+    "audio": "dieu_nay_la_du_de_co_nhung_cuoc_tro_chuyen_don_gian.mp3",
+    "mnemonic": "'điều này' as a talking frog hopping between small conversations."
   },
   {
     "vietnamese": "Bạn phải đọc đi đọc lại các câu.",
     "english": "You have to read the sentences over and over again.",
-    "audio": "ban_phai_doc_di_doc_lai_cac_cau.mp3"
+    "audio": "ban_phai_doc_di_doc_lai_cac_cau.mp3",
+    "mnemonic": "someone hears 'bạn phải đọc đi đọc lại các câu.' and thinks it's a secret spell that unlocks a giant talking bạn."
   },
   {
     "vietnamese": "Bạn phải nghe các tập tin âm thanh rất nhiều.",
     "english": "You have to listen to the audio files a lot.",
-    "audio": "ban_phai_nghe_cac_tap_tin_am_thanh_rat_nhieu.mp3"
+    "audio": "ban_phai_nghe_cac_tap_tin_am_thanh_rat_nhieu.mp3",
+    "mnemonic": "someone hears 'bạn phải nghe các tập tin âm thanh rất nhiều.' and it's carved into a tree by a lovesick squirrel."
   },
   {
     "vietnamese": "Bạn phải nghe và lặp lại các câu.",
     "english": "You have to listen and repeat the sentences.",
-    "audio": "ban_phai_nghe_va_lap_lai_cac_cau.mp3"
+    "audio": "ban_phai_nghe_va_lap_lai_cac_cau.mp3",
+    "mnemonic": "someone hears 'bạn phải nghe và lặp lại các câu.' and it's carved into a tree by a lovesick squirrel."
   },
   {
     "vietnamese": "Đây là cách tốt nhất để học phát âm.",
     "english": "This is the best way to learn pronunciation.",
-    "audio": "day_la_cach_tot_nhat_de_hoc_phat_am.mp3"
+    "audio": "day_la_cach_tot_nhat_de_hoc_phat_am.mp3",
+    "mnemonic": "someone hears 'đây là cách tốt nhất để học phát âm.' and it echoes across a valley like a dramatic movie quote."
   },
   {
     "vietnamese": "Cuối cùng, bạn phải viết và dịch các câu.",
     "english": "Finally, you have to write and translate the sentences.",
-    "audio": "cuoi_cung_ban_phai_viet_va_dich_cac_cau.mp3"
+    "audio": "cuoi_cung_ban_phai_viet_va_dich_cac_cau.mp3",
+    "mnemonic": "someone hears 'cuối cùng, bạn phải viết và dịch các câu.' and it's carved into a tree by a lovesick squirrel."
   },
   {
     "vietnamese": "Hãy học càng nhiều câu càng tốt nhé!",
     "english": "Let's learn as many sentences as possible!",
-    "audio": "hay_hoc_cang_nhieu_cau_cang_tot_nhe.mp3"
+    "audio": "hay_hoc_cang_nhieu_cau_cang_tot_nhe.mp3",
+    "mnemonic": "someone hears 'hãy học càng nhiều câu càng tốt nhé!' and a child writes it with spaghetti noodles on the wall."
   },
   {
     "vietnamese": "Bạn đến từ đâu?",
     "english": "Where are you from?",
-    "audio": "ban_den_tu_dau.mp3"
+    "audio": "ban_den_tu_dau.mp3",
+    "mnemonic": "someone hears 'bạn đến từ đâu?' and it echoes across a valley like a dramatic movie quote."
   },
   {
     "vietnamese": "Tôi đến từ xứ Basque, Tây Ban Nha.",
     "english": "I'm from the Basque Country, in Spain.",
-    "audio": "toi_den_tu_xu_basque_tay_ban_nha.mp3"
+    "audio": "toi_den_tu_xu_basque_tay_ban_nha.mp3",
+    "mnemonic": "someone hears 'tôi đến từ xứ basque, tây ban nha.' and a child writes it with spaghetti noodles on the wall."
   },
   {
     "vietnamese": "Bây giờ bạn sống ở đâu?",
     "english": "Where do you live now?",
-    "audio": "bay_gio_ban_song_o_dau.mp3"
+    "audio": "bay_gio_ban_song_o_dau.mp3",
+    "mnemonic": "someone hears 'bây giờ bạn sống ở đâu?' and it's printed on a superhero's cape that flies by yelling it."
   },
   {
     "vietnamese": "Tôi sống ở San Sebastian, quê hương của tôi.",
     "english": "I live in San Sebastian, my hometown.",
-    "audio": "toi_song_o_san_sebastian_que_huong_cua_toi.mp3"
+    "audio": "toi_song_o_san_sebastian_que_huong_cua_toi.mp3",
+    "mnemonic": "someone hears 'tôi sống ở san sebastian, quê hương của tôi.' and it's carved into a tree by a lovesick squirrel."
   },
   {
     "vietnamese": "Tôi không biết thành phố đó.",
     "english": "I don’t know that city.",
-    "audio": "toi_khong_biet_thanh_pho_do.mp3"
+    "audio": "toi_khong_biet_thanh_pho_do.mp3",
+    "mnemonic": "someone hears 'tôi không biết thành phố đó.' and it's carved into a tree by a lovesick squirrel."
   },
   {
     "vietnamese": "Thành phố này như thế nào?",
     "english": "What is the city like?",
-    "audio": "thanh_pho_nay_nhu_the_nao.mp3"
+    "audio": "thanh_pho_nay_nhu_the_nao.mp3",
+    "mnemonic": "someone hears 'thành phố này như thế nào?' and a dancing animal shouts it while doing backflips."
   },
   {
     "vietnamese": "Đó là một thành phố nhỏ nhưng xinh đẹp.",
     "english": "It’s a small but beautiful city.",
-    "audio": "do_la_mot_thanh_pho_nho_nhung_xinh_dep.mp3"
+    "audio": "do_la_mot_thanh_pho_nho_nhung_xinh_dep.mp3",
+    "mnemonic": "someone hears 'đó là một thành phố nhỏ nhưng xinh đẹp.' and you see it flash on a karaoke screen with disco lights."
   },
   {
     "vietnamese": "Nó có ba bãi biển.",
     "english": "It has three beaches.",
-    "audio": "no_co_ba_bai_bien.mp3"
+    "audio": "no_co_ba_bai_bien.mp3",
+    "mnemonic": "someone hears 'nó có ba bãi biển.' and you see it flash on a karaoke screen with disco lights."
   },
   {
     "vietnamese": "Tôi sống cạnh một trong những bãi biển.",
     "english": "I live next to one of the beaches.",
-    "audio": "toi_song_canh_mot_trong_nhung_bai_bien.mp3"
+    "audio": "toi_song_canh_mot_trong_nhung_bai_bien.mp3",
+    "mnemonic": "someone hears 'tôi sống cạnh một trong những bãi biển.' and it echoes across a valley like a dramatic movie quote."
   },
-
-    {
-      "vietnamese": "Đây có phải là nơi tốt để lướt sóng không?",
-      "english": "Is it a good place for surfing?",
-      "audio": "day_co_phai_la_noi_tot_de_luot_song_khong.mp3"
-    },
-    {
-      "vietnamese": "Chỉ có một trong ba bãi biển là tốt cho việc lướt sóng.",
-      "english": "Only one of the three beaches is good for surfing.",
-      "audio": "chi_co_mot_trong_ba_bai_bien_la_tot_cho_viec_luot_song.mp3"
-    },
-    {
-      "vietnamese": "Bạn có thích lướt sóng không?",
-      "english": "Do you like surfing?",
-      "audio": "ban_co_thich_luot_song_khong.mp3"
-    },
-    {
-      "vietnamese": "Bạn có thích đi du lịch không?",
-      "english": "Do you like traveling?",
-      "audio": "ban_co_thich_di_du_lich_khong.mp3"
-    },
-    {
-      "vietnamese": "Tôi thích đi du lịch.",
-      "english": "I like travelling.",
-      "audio": "toi_thich_di_du_lich.mp3"
-    },
-    {
-      "vietnamese": "Bạn có đi du lịch nhiều không?",
-      "english": "Do you travel a lot?",
-      "audio": "ban_co_di_du_lich_nhieu_khong.mp3"
-    },
-    {
-      "vietnamese": "Tôi đi du lịch rất nhiều.",
-      "english": "I travel a lot.",
-      "audio": "toi_di_du_lich_rat_nhieu.mp3"
-    },
-    {
-      "vietnamese": "Bạn có ở đây vào kỳ nghỉ không?",
-      "english": "Are you here on holiday?",
-      "audio": "ban_co_o_day_vao_ky_nghi_khong.mp3"
-    },
-    {
-      "vietnamese": "Không, tôi đến đây để đi công tác. Và bạn?",
-      "english": "No, I'm here on a business trip. And you?",
-      "audio": "khong_toi_den_day_de_di_cong_tac_va_ban.mp3"
-    },
-    {
-      "vietnamese": "Tôi sống ở đây. Tôi đến từ đây.",
-      "english": "I live here. I am from here.",
-      "audio": "toi_song_o_day_toi_den_tu_day.mp3"
-    },
-    {
-      "vietnamese": "Hãy cho tôi biết thêm về bản thân bạn.",
-      "english": "Tell me more about yourself.",
-      "audio": "hay_cho_toi_biet_them_ve_ban_than_ban.mp3"
-    },
-    {
-      "vietnamese": "Vậy bạn đang làm gì ở đây?",
-      "english": "So, what are you doing here?",
-      "audio": "vay_ban_dang_lam_gi_o_day.mp3"
-    },
-    {
-      "vietnamese": "Thật sự? Điều đó thật thú vị!",
-      "english": "Really? That's interesting!",
-      "audio": "that_su_dieu_do_that_thu_vi.mp3"
-    },
-    {
-      "vietnamese": "Bạn sẽ ở đây bao lâu?",
-      "english": "How long are you staying here?",
-      "audio": "ban_se_o_day_bao_lau.mp3"
-    },
-    {
-      "vietnamese": "Tôi sẽ ở đây thêm ba ngày nữa.",
-      "english": "I'll stay here three more days.",
-      "audio": "toi_se_o_day_them_ba_ngay_nua.mp3"
-    },
-    {
-      "vietnamese": "Tôi sẽ rời đi vào thứ Hai.",
-      "english": "I am leaving on Monday.",
-      "audio": "toi_se_roi_di_vao_thu_hai.mp3"
-    },
-    {
-      "vietnamese": "Bạn đang ở đâu?",
-      "english": "Where are you staying?",
-      "audio": "ban_dang_o_dau.mp3"
-    },
-    {
-      "vietnamese": "Tôi đang ở trong một khách sạn, cách đây 5 phút.",
-      "english": "I am staying in a hotel, 5 minutes from here.",
-      "audio": "toi_dang_o_trong_mot_khach_san_cach_day_5_phut.mp3"
-    },
-    {
-      "vietnamese": "Căn hộ của tôi cách đây không xa.",
-      "english": "My apartment is not far away from here.",
-      "audio": "can_ho_cua_toi_cach_day_khong_xa.mp3"
-    },
-    {
-      "vietnamese": "Bàn này có miễn phí không?",
-      "english": "Is this table free?",
-      "audio": "ban_nay_co_mien_phi_khong.mp3"
-    },
-    {
-      "vietnamese": "Bạn có bàn cho hai người không?",
-      "english": "Do you have a table for two people?",
-      "audio": "ban_co_ban_cho_hai_nguoi_khong.mp3"
-    },
-    {
-      "vietnamese": "Tôi có thể xem thực đơn được không?",
-      "english": "Can I see the menu?",
-      "audio": "toi_co_the_xem_thuc_don_duoc_khong.mp3"
-    },
-    {
-      "vietnamese": "Tôi muốn đặt hàng, xin vui lòng.",
-      "english": "I would like to order, please.",
-      "audio": "toi_muon_dat_hang_xin_vui_long.mp3"
-    },
-    {
-      "vietnamese": "Bạn có muốn uống gì không?",
-      "english": "Do you want something to drink?",
-      "audio": "ban_co_muon_uong_gi_khong.mp3"
-    },
-    {
-      "vietnamese": "Cho tôi xin một cốc nước được không?",
-      "english": "Can I have a glass of water, please?",
-      "audio": "cho_toi_xin_mot_coc_nuoc_duoc_khong.mp3"
-    },
-    
-      {
-        "vietnamese": "Không, cảm ơn. Tôi không uống rượu.",
-        "english": "No, thanks. I don’t drink.",
-        "audio": "khong_cam_on_toi_khong_uong_ruou.mp3"
-      },
-      {
-        "vietnamese": "Tôi có thể thanh toán bằng thẻ không?",
-        "english": "Can I pay by card?",
-        "audio": "toi_co_the_thanh_toan_bang_the_khong.mp3"
-      },
-      {
-        "vietnamese": "Nhà vệ sinh ở đâu?",
-        "english": "Where's the toilet?",
-        "audio": "nha_ve_sinh_o_dau.mp3"
-      },
-      {
-        "vietnamese": "Bạn đã thử món ăn ở đây chưa?",
-        "english": "Have you tried the food here?",
-        "audio": "ban_da_thu_mon_an_o_day_chua.mp3"
-      },
-      {
-        "vietnamese": "Bạn nghĩ gì về nó?",
-        "english": "What do you think about it?",
-        "audio": "ban_nghi_gi_ve_no.mp3"
-      },
-      {
-        "vietnamese": "Thật thú vị.",
-        "english": "It's interesting.",
-        "audio": "that_thu_vi.mp3"
-      },
-      {
-        "vietnamese": "Bạn có kế hoạch cho cuối tuần chưa?",
-        "english": "Do you have plans for the weekend?",
-        "audio": "ban_co_ke_hoach_cho_cuoi_tuan_chua.mp3"
-      },
-      {
-        "vietnamese": "Rất vui được nói chuyện với bạn.",
-        "english": "It's been nice talking to you.",
-        "audio": "rat_vui_duoc_noi_chuyen_voi_ban.mp3"
-      },
-      {
-        "vietnamese": "Ngày mai bạn có ở đây không?",
-        "english": "Are you here tomorrow?",
-        "audio": "ngay_mai_ban_co_o_day_khong.mp3"
-      },
-      {
-        "vietnamese": "Số điện thoại của bạn là gì?",
-        "english": "What's your phone number?",
-        "audio": "so_dien_thoai_cua_ban_la_gi.mp3"
-      },
-      {
-        "vietnamese": "Chúng ta hãy gặp nhau vào ngày mai.",
-        "english": "Let's meet tomorrow.",
-        "audio": "chung_ta_hay_gap_nhau_vao_ngay_mai.mp3"
-      },
-      {
-        "vietnamese": "Hẹn gặp lại sau! Tạm biệt!",
-        "english": "See you later! Bye!",
-        "audio": "hen_gap_lai_sau_tam_biet.mp3"
-      },
-      {
-        "vietnamese": "Bạn có cần giúp đỡ không?",
-        "english": "Do you need help?",
-        "audio": "ban_co_can_giup_do_khong.mp3"
-      },
-      {
-        "vietnamese": "Bạn có thể giúp tôi được không?",
-        "english": "Can you help me?",
-        "audio": "ban_co_the_giup_toi_duoc_khong.mp3"
-      },
-      {
-        "vietnamese": "Bạn có nói được tiếng Nga không?",
-        "english": "Do you speak Russian?",
-        "audio": "ban_co_noi_duoc_tieng_nga_khong.mp3"
-      },
-      {
-        "vietnamese": "Tôi có thể nói được một chút tiếng Ả Rập.",
-        "english": "I can speak a little Arabic.",
-        "audio": "toi_co_the_noi_duoc_mot_chut_tieng_a_rap.mp3"
-      },
-      {
-        "vietnamese": "Bây giờ tôi đang học tiếng Tây Ban Nha.",
-        "english": "I am learning Spanish now.",
-        "audio": "bay_gio_toi_dang_hoc_tieng_tay_ban_nha.mp3"
-      },
-      {
-        "vietnamese": "Bạn có phải là người Anh không?",
-        "english": "Are you British?",
-        "audio": "ban_co_phai_la_nguoi_anh_khong.mp3"
-      },
-      {
-        "vietnamese": "Không, tôi không phải người Đức. Và bạn?",
-        "english": "No, I'm not German. And you?",
-        "audio": "khong_toi_khong_phai_nguoi_duc_va_ban.mp3"
-      },
-      {
-        "vietnamese": "Vâng, tôi là người Mỹ.",
-        "english": "Yes, I am American.",
-        "audio": "vang_toi_la_nguoi_my.mp3"
-      },
-      {
-        "vietnamese": "Tại sao bạn học tiếng Pháp?",
-        "english": "Why are you learning French?",
-        "audio": "tai_sao_ban_hoc_tieng_phap.mp3"
-      },
-      {
-        "vietnamese": "Tôi đang học tiếng Bồ Đào Nha vì tôi muốn chuyển đến Brazil.",
-        "english": "I am learning Portuguese because I want to move to Brazil.",
-        "audio": "toi_dang_hoc_tieng_bo_dao_nha_vi_toi_muon_chuyen_den_brazil.mp3"
-      },
-      {
-        "vietnamese": "Tôi muốn học tiếng Ý vì tôi có những người bạn Ý.",
-        "english": "I want to learn Italian because I have Italian friends.",
-        "audio": "toi_muon_hoc_tieng_y_vi_toi_co_nhung_nguoi_ban_y.mp3"
-      },
-      {
-        "vietnamese": "Tôi học tiếng Nga vì tôi có bạn gái người Ukraine.",
-        "english": "I learned Russian because I had a Ukrainian girlfriend.",
-        "audio": "toi_hoc_tieng_nga_vi_toi_co_ban_gai_nguoi_ukraine.mp3"
-      },
-      {
-        "vietnamese": "Đó là một ngôn ngữ thú vị.",
-        "english": "It is an interesting language.",
-        "audio": "do_la_mot_ngon_ngu_thu_vi.mp3"
-      },
-      
-        { 
-          "vietnamese": "Bạn đang làm gì ở đây?",
-          "english": "What are you doing here?",
-          "audio": "ban_dang_lam_gi_o_day.mp3"
-        },
-        {
-          "vietnamese": "Tôi đang đợi một người bạn.",
-          "english": "I am waiting for a friend.",
-          "audio": "toi_dang_doi_mot_nguoi_ban.mp3"
-        },
-        {
-          "vietnamese": "Bạn có thuốc lá không?",
-          "english": "Do you have a cigarette?",
-          "audio": "ban_co_thuoc_la_khong.mp3"
-        },
-        {
-          "vietnamese": "Xin lỗi, anh bạn. Tôi không hút thuốc.",
-          "english": "Sorry, mate. I don't smoke.",
-          "audio": "xin_loi_anh_ban_toi_khong_hut_thuoc.mp3"
-        },
-        {
-          "vietnamese": "Bạn có hút thuốc không? Bạn có muốn một điếu thuốc không?",
-          "english": "Do you smoke? Do you want a cigarette?",
-          "audio": "ban_co_hut_thuoc_khong_ban_co_muon_mot_dieu_thuoc_khong.mp3"
-        },
-        {
-          "vietnamese": "Không, cảm ơn bạn.",
-          "english": "No, thank you.",
-          "audio": "khong_cam_on_ban.mp3"
-        },
-        {
-          "vietnamese": "Bạn có muốn uống gì không?",
-          "english": "Do you want something to drink?",
-          "audio": "ban_co_muon_uong_gi_khong.mp3"
-        },
-        {
-          "vietnamese": "Bạn có muốn uống bia không?",
-          "english": "Do you want a beer?",
-          "audio": "ban_co_muon_uong_bia_khong.mp3"
-        },
-        {
-          "vietnamese": "Tôi muốn một cốc bia, cảm ơn bạn.",
-          "english": "I want a beer, thank you.",
-          "audio": "toi_muon_mot_coc_bia_cam_on_ban.mp3"
-        },
-        {
-          "vietnamese": "Và một cái khác cho bạn tôi.",
-          "english": "And another one for my friend.",
-          "audio": "va_mot_cai_khac_cho_ban_toi.mp3"
-        },
-        {
-          "vietnamese": "Làm ơn cho hai cốc bia!",
-          "english": "Two beers please!",
-          "audio": "lam_on_cho_hai_coc_bia.mp3"
-        },
-        {
-          "vietnamese": "Nó là bao nhiêu?",
-          "english": "How much is it?",
-          "audio": "no_la_bao_nhieu.mp3"
-        },
-        {
-          "vietnamese": "Bạn có muốn uống rượu tequila không?",
-          "english": "Do you want tequila?",
-          "audio": "ban_co_muon_uong_ruou_tequila_khong.mp3"
-        },
-        {
-          "vietnamese": "Không, cảm ơn, tôi không uống rượu tequila.",
-          "english": "No thanks, I don't drink tequila.",
-          "audio": "khong_cam_on_toi_khong_uong_ruou_tequila.mp3"
-        },
-        {
-          "vietnamese": "Bạn làm nghề gì?",
-          "english": "What do you do for a living?",
-          "audio": "ban_lam_nghe_gi.mp3"
-        },
-        {
-          "vietnamese": "Tôi có công việc kinh doanh riêng của mình.",
-          "english": "I have my own business.",
-          "audio": "toi_co_cong_viec_kinh_doanh_rieng_cua_minh.mp3"
-        },
-        {
-          "vietnamese": "Bạn có giúp mọi người học ngôn ngữ không?",
-          "english": "Do you help people learn languages?",
-          "audio": "ban_co_giup_moi_nguoi_hoc_ngon_ngu_khong.mp3"
-        },
-        {
-          "vietnamese": "Chính xác là tôi giúp mọi người học nhanh hơn, không lãng phí thời gian.",
-          "english": "Exactly, I help people learn faster, without wasting time.",
-          "audio": "chinh_xac_la_toi_giup_moi_nguoi_hoc_nhanh_hon_khong_lang_phi_thoi_gian.mp3"
-        },
-        {
-          "vietnamese": "Bạn có làm việc nhiều không?",
-          "english": "Do you work a lot?",
-          "audio": "ban_co_lam_viec_nhieu_khong.mp3"
-        },
-        {
-          "vietnamese": "Tôi làm việc rất nhiều.",
-          "english": "I work a lot.",
-          "audio": "toi_lam_viec_rat_nhieu.mp3"
-        },
-        {
-          "vietnamese": "Tôi thích công việc của tôi.",
-          "english": "I like my work.",
-          "audio": "toi_thich_cong_viec_cua_toi.mp3"
-        },
-        {
-          "vietnamese": "Tôi không ngại làm việc nhiều.",
-          "english": "I don't mind working a lot.",
-          "audio": "toi_khong_ngai_lam_viec_nhieu.mp3"
-        },
-        
-          {
-            "vietnamese": "Bạn đã làm công việc này được bao lâu rồi?",
-            "english": "How long have you been doing this job?",
-            "audio": "ban_da_lam_cong_viec_nay_duoc_bao_lau_roi.mp3"
-          },
-          {
-            "vietnamese": "Trước đây bạn đã làm gì?",
-            "english": "What did you do before?",
-            "audio": "truoc_day_ban_da_lam_gi.mp3"
-          },
-          {
-            "vietnamese": "Bạn đã có những công việc nào khác?",
-            "english": "What other jobs have you had?",
-            "audio": "ban_da_co_nhung_cong_viec_nao_khac.mp3"
-          },
-          {
-            "vietnamese": "Tôi từng làm việc tại Đại sứ quán Tây Ban Nha ở Berlin.",
-            "english": "I used to work in the Embassy of Spain in Berlin.",
-            "audio": "toi_tung_lam_viec_tai_dai_su_quan_tay_ban_nha_o_berlin.mp3"
-          },
-          {
-            "vietnamese": "Bạn đã từng đến Rumani chưa?",
-            "english": "Have you ever been to Romania?",
-            "audio": "ban_da_tung_den_rumani_chua.mp3"
-          },
-          {
-            "vietnamese": "Tôi đã đến Pháp nhiều lần.",
-            "english": "I have been to France many times.",
-            "audio": "toi_da_den_phap_nhieu_lan.mp3"
-          },
-          {
-            "vietnamese": "Tôi chưa bao giờ đến Trung Quốc.",
-            "english": "I have never been to China.",
-            "audio": "toi_chua_bao_gio_den_trung_quoc.mp3"
-          },
-          {
-            "vietnamese": "Tôi thường xuyên đến Bồ Đào Nha.",
-            "english": "I go to Portugal often.",
-            "audio": "toi_thuong_xuyen_den_bo_dao_nha.mp3"
-          },
-          {
-            "vietnamese": "Tôi đã đến Hàn Quốc một lần.",
-            "english": "I have been to Korea once.",
-            "audio": "toi_da_den_han_quoc_mot_lan.mp3"
-          },
-          {
-            "vietnamese": "Bạn đã đi học đại học?",
-            "english": "Did you go to university?",
-            "audio": "ban_da_di_hoc_dai_hoc.mp3"
-          },
-          {
-            "vietnamese": "Bạn đã học gì?",
-            "english": "What did you study?",
-            "audio": "ban_da_hoc_gi.mp3"
-          },
-          {
-            "vietnamese": "Tôi đã học ở ba trường đại học khác nhau.",
-            "english": "I went to three different universities.",
-            "audio": "toi_da_hoc_o_ba_truong_dai_hoc_khac_nhau.mp3"
-          },
-          {
-            "vietnamese": "Tôi có bằng thạc sĩ về dịch thuật và kinh doanh quốc tế.",
-            "english": "I have masters degrees in translation and international business.",
-            "audio": "toi_co_bang_thac_si_ve_dich_thuat_va_kinh_doanh_quoc_te.mp3"
-          },
-          {
-            "vietnamese": "Nhưng tôi không phải là một học sinh giỏi.",
-            "english": "But I wasn’t a very good student.",
-            "audio": "nhung_toi_khong_phai_la_mot_hoc_sinh_gioi.mp3"
-          },
-          {
-            "vietnamese": "Tôi từng làm việc như một dịch giả.",
-            "english": "I used to work as a translator.",
-            "audio": "toi_tung_lam_viec_nhu_mot_dich_gia.mp3"
-          },
-          {
-            "vietnamese": "Dịch khá chán, phải viết nhiều.",
-            "english": "Translation is quite boring, you have to write a lot.",
-            "audio": "dich_kha_chan_phai_viet_nhieu.mp3"
-          },
-          {
-            "vietnamese": "Bạn làm gì trong thời gian rảnh?",
-            "english": "What do you do in your free time?",
-            "audio": "ban_lam_gi_trong_thoi_gian_ranh.mp3"
-          },
-          {
-            "vietnamese": "Khi rảnh rỗi, tôi đọc sách, tập thể dục, tập võ và gặp gỡ bạn bè.",
-            "english": "In my free time I read, I work out, I train in martial arts and I meet my friends.",
-            "audio": "khi_ranh_roi_toi_doc_sach_tap_the_duc_tap_vo_va_gap_go_ban_be.mp3"
-          },
-          {
-            "vietnamese": "Tôi thích đọc sách.",
-            "english": "I like reading.",
-            "audio": "toi_thich_doc_sach.mp3"
-          },
-          {
-            "vietnamese": "Tôi đọc rất nhiều, chủ yếu là về lịch sử.",
-            "english": "I read a lot, mostly about history.",
-            "audio": "toi_doc_rat_nhieu_chu_yeu_la_ve_lich_su.mp3"
-          },
-          {
-            "vietnamese": "Và tất nhiên, tôi thích học ngôn ngữ.",
-            "english": "And of course, I like to learn languages.",
-            "audio": "va_tat_nhien_toi_thich_hoc_ngon_ngu.mp3"
-          },
-          {
-            "vietnamese": "Tôi không có nhiều thời gian rảnh, tôi làm việc rất nhiều.",
-            "english": "I don’t have much free time, I work a lot.",
-            "audio": "toi_khong_co_nhieu_thoi_gian_ranh_toi_lam_viec_rat_nhieu.mp3"
-          },
-            {
-              "vietnamese": "Bạn có đến quán bar và nhà hàng không?",
-              "english": "Do you go to bars and restaurants?",
-              "audio": "ban_co_den_quan_bar_va_nha_hang_khong.mp3"
-            },
-            {
-              "vietnamese": "Vâng tất nhiên.",
-              "english": "Yes, of course.",
-              "audio": "vang_tat_nhien.mp3"
-            },
-            {
-              "vietnamese": "Mọi người đều làm điều đó ở đây!",
-              "english": "Everyone does that here!",
-              "audio": "moi_nguoi_deu_lam_dieu_do_o_day.mp3"
-            },
-            {
-              "vietnamese": "Bạn có đến phòng gym nhiều không?",
-              "english": "Do you go to the gym a lot?",
-              "audio": "ban_co_den_phong_gym_nhieu_khong.mp3"
-            },
-            {
-              "vietnamese": "Tôi tập luyện gần như mỗi ngày.",
-              "english": "I train almost every day.",
-              "audio": "toi_tap_luyen_gan_nhu_moi_ngay.mp3"
-            },
-            {
-              "vietnamese": "Tôi nâng tạ và tập võ thuật.",
-              "english": "I lift weights and I do martial arts.",
-              "audio": "toi_nang_ta_va_tap_vo_thuat.mp3"
-            },
-            {
-              "vietnamese": "Tôi sống cạnh bãi biển.",
-              "english": "I live next to the beach.",
-              "audio": "toi_song_canh_bai_bien.mp3"
-            },
-            {
-              "vietnamese": "Khi thời tiết tốt tôi chạy trên bãi biển.",
-              "english": "When the weather is good I run on the beach.",
-              "audio": "khi_thoi_tiet_tot_toi_chay_tren_bai_bien.mp3"
-            },
-            {
-              "vietnamese": "Tôi phải chơi thể thao rất nhiều vì tôi làm việc ở văn phòng.",
-              "english": "I have to do a lot of sports because I work in an office.",
-              "audio": "toi_phai_choi_the_thao_rat_nhieu_vi_toi_lam_viec_o_van_phong.mp3"
-            },
-            {
-              "vietnamese": "Khi làm việc, tôi luôn ngồi trước máy tính.",
-              "english": "When I work, I am always sitting in front of a computer.",
-              "audio": "khi_lam_viec_toi_luon_ngoi_truoc_may_tinh.mp3"
-            },
-            {
-              "vietnamese": "Điều đó không tốt cho cơ thể và tâm trí của bạn.",
-              "english": "That is not healthy for your body and your mind.",
-              "audio": "dieu_do_khong_tot_cho_co_the_va_tam_tri_cua_ban.mp3"
-            },
-            {
-              "vietnamese": "Bạn chơi môn thể thao nào?",
-              "english": "What kind of sports do you do?",
-              "audio": "ban_choi_mon_the_thao_nao.mp3"
-            },
-            {
-              "vietnamese": "Tôi chơi bóng đá, tôi đến phòng tập thể hình và chạy bộ.",
-              "english": "I play football, I go to the gym and I go for runs.",
-              "audio": "toi_choi_bong_da_toi_den_phong_tap_the_hinh_va_chay_bo.mp3"
-            },
-            {
-              "vietnamese": "Bạn khuyên tôi nên thử món ăn nào?",
-              "english": "Which food do you recommend me to try?",
-              "audio": "ban_khuyen_toi_nen_thu_mon_an_nao.mp3"
-            },
-            {
-              "vietnamese": "Có rất nhiều loại thực phẩm khác nhau mà bạn nên thử.",
-              "english": "There are a lot of different types of food that you should try.",
-              "audio": "co_rat_nhieu_loai_thuc_pham_khac_nhau_ma_ban_nen_thu.mp3"
-            },
-            {
-              "vietnamese": "Thành phố này nổi tiếng với ẩm thực, cả truyền thống và hiện đại.",
-              "english": "The city is famous for its cuisine, both traditional and modern.",
-              "audio": "thanh_pho_nay_noi_tieng_voi_am_thuc_ca_truyen_thong_va_hien_dai.mp3"
-            },
-            {
-              "vietnamese": "Bạn có thích đồ ăn Mexico không?",
-              "english": "Do you like Mexican food?",
-              "audio": "ban_co_thich_do_an_mexico_khong.mp3"
-            },
-            {
-              "vietnamese": "Tôi rất thích đồ ăn Mexico, nó rất ngon.",
-              "english": "I like Mexican food a lot, it's delicious.",
-              "audio": "toi_rat_thich_do_an_mexico_no_rat_ngon.mp3"
-            },
-            {
-              "vietnamese": "Đồ ăn Ý cũng thực sự ngon.",
-              "english": "Italian food is also really good.",
-              "audio": "do_an_y_cung_thuc_su_ngon.mp3"
-            },
-            {
-              "vietnamese": "Tôi ăn pizza rất thường xuyên, có thể là quá nhiều.",
-              "english": "I eat pizza very often, maybe too much.",
-              "audio": "toi_an_pizza_rat_thuong_xuyen_co_the_la_qua_nhieu.mp3"
-            },
-            {
-              "vietnamese": "Đó là lý do tại sao tôi phải tập luyện rất nhiều!",
-              "english": "That's why I have to work out a lot!",
-              "audio": "do_la_ly_do_tai_sao_toi_phai_tap_luyen_rat_nhieu.mp3"
-            },
-            {
-              "vietnamese": "Bạn có thích Kebab không?",
-              "english": "Do you like Kebab?",
-              "audio": "ban_co_thich_kebab_khong.mp3"
-            },
-            {
-              "vietnamese": "Tôi thích Kebab, nhưng ở Tây Ban Nha thì nó không ngon lắm.",
-              "english": "I like Kebab, but in Spain it is not very good.",
-              "audio": "toi_thich_kebab_nhung_o_tay_ban_nha_thi_no_khong_ngon_lam.mp3"
-            },
-              {
-                "vietnamese": "Ở Đức có những quán Kebab rất ngon vì có rất nhiều người Thổ Nhĩ Kỳ sống ở đó.",
-                "english": "In Germany there are very good Kebab places, because a lot of Turks live there.",
-                "audio": "o_duc_co_nhung_quan_kebab_rat_ngon_vi_co_rat_nhieu_nguoi_tho_nhi_ky_song_o_do.mp3"
-              },
-              {
-                "vietnamese": "Tôi đã từng sống ở Đức.",
-                "english": "I used to live in Germany.",
-                "audio": "toi_da_tung_song_o_duc.mp3"
-              },
-              {
-                "vietnamese": "Tôi thích nước Đức nhưng tôi thích quê hương của tôi hơn.",
-                "english": "I like Germany, but I prefer my hometown.",
-                "audio": "toi_thich_nuoc_duc_nhung_toi_thich_que_huong_cua_toi_hon.mp3"
-              },
-              {
-                "vietnamese": "Đất nước của bạn như thế nào?",
-                "english": "What is your country like?",
-                "audio": "dat_nuoc_cua_ban_nhu_the_nao.mp3"
-              },
-              {
-                "vietnamese": "Đồ ăn ở đó ngon không?",
-                "english": "Is the food good there?",
-                "audio": "do_an_o_do_ngon_khong.mp3"
-              },
-              {
-                "vietnamese": "Bạn nghĩ gì?",
-                "english": "What do you think?",
-                "audio": "ban_nghi_gi.mp3"
-              },
-              {
-                "vietnamese": "Bạn vẫn nghĩ việc học ngôn ngữ là khó khăn?",
-                "english": "Do you still think language learning is difficult?",
-                "audio": "ban_van_nghi_viec_hoc_ngon_ngu_la_kho_khan.mp3"
-              },
-              {
-                "vietnamese": "Nếu bạn học được một nghìn câu hay, bạn có thể nói tốt ngôn ngữ đó.",
-                "english": "If you learn one thousand good sentences, you can speak the language well.",
-                "audio": "neu_ban_hoc_duoc_mot_nghin_cau_hay_ban_co_the_noi_tot_ngon_ngu_do.mp3"
-              },
-              {
-                "vietnamese": "Bạn có thể làm điều đó trong ba tháng hoặc ít hơn.",
-                "english": "You can do that in three months or less.",
-                "audio": "ban_co_the_lam_dieu_do_trong_ba_thang_hoac_it_hon.mp3"
-              },
-              {
-                "vietnamese": "Với một hệ thống hiệu quả và một số kỷ luật, bạn có thể học bất kỳ ngôn ngữ nào một cách nhanh chóng.",
-                "english": "With an effective system and some discipline, you can learn any language fast.",
-                "audio": "voi_mot_he_thong_hieu_qua_va_mot_so_ky_luat_ban_co_the_hoc_bat_ky_ngon_ngu_nao_nhanh_chong.mp3"
-              }
+  {
+    "vietnamese": "Đây có phải là nơi tốt để lướt sóng không?",
+    "english": "Is it a good place for surfing?",
+    "audio": "day_co_phai_la_noi_tot_de_luot_song_khong.mp3",
+    "mnemonic": "someone hears 'đây có phải là nơi tốt để lướt sóng không?' and it's carved into a tree by a lovesick squirrel."
+  },
+  {
+    "vietnamese": "Chỉ có một trong ba bãi biển là tốt cho việc lướt sóng.",
+    "english": "Only one of the three beaches is good for surfing.",
+    "audio": "chi_co_mot_trong_ba_bai_bien_la_tot_cho_viec_luot_song.mp3",
+    "mnemonic": "someone hears 'chỉ có một trong ba bãi biển là tốt cho việc lướt sóng.' and it's carved into a tree by a lovesick squirrel."
+  },
+  {
+    "vietnamese": "Bạn có thích lướt sóng không?",
+    "english": "Do you like surfing?",
+    "audio": "ban_co_thich_luot_song_khong.mp3",
+    "mnemonic": "someone hears 'bạn có thích lướt sóng không?' and a dancing animal shouts it while doing backflips."
+  },
+  {
+    "vietnamese": "Bạn có thích đi du lịch không?",
+    "english": "Do you like traveling?",
+    "audio": "ban_co_thich_di_du_lich_khong.mp3",
+    "mnemonic": "someone hears 'bạn có thích đi du lịch không?' and a dancing animal shouts it while doing backflips."
+  },
+  {
+    "vietnamese": "Tôi thích đi du lịch.",
+    "english": "I like travelling.",
+    "audio": "toi_thich_di_du_lich.mp3",
+    "mnemonic": "someone hears 'tôi thích đi du lịch.' and it echoes across a valley like a dramatic movie quote."
+  },
+  {
+    "vietnamese": "Bạn có đi du lịch nhiều không?",
+    "english": "Do you travel a lot?",
+    "audio": "ban_co_di_du_lich_nhieu_khong.mp3",
+    "mnemonic": "someone hears 'bạn có đi du lịch nhiều không?' and a martial arts master yells it before jumping off a mountain."
+  },
+  {
+    "vietnamese": "Tôi đi du lịch rất nhiều.",
+    "english": "I travel a lot.",
+    "audio": "toi_di_du_lich_rat_nhieu.mp3",
+    "mnemonic": "someone hears 'tôi đi du lịch rất nhiều.' and a dancing animal shouts it while doing backflips."
+  },
+  {
+    "vietnamese": "Bạn có ở đây vào kỳ nghỉ không?",
+    "english": "Are you here on holiday?",
+    "audio": "ban_co_o_day_vao_ky_nghi_khong.mp3",
+    "mnemonic": "someone hears 'bạn có ở đây vào kỳ nghỉ không?' and a child writes it with spaghetti noodles on the wall."
+  },
+  {
+    "vietnamese": "Không, tôi đến đây để đi công tác. Và bạn?",
+    "english": "No, I'm here on a business trip. And you?",
+    "audio": "khong_toi_den_day_de_di_cong_tac_va_ban.mp3",
+    "mnemonic": "someone hears 'không, tôi đến đây để đi công tác. và bạn?' and thinks it's a secret spell that unlocks a giant talking không,."
+  },
+  {
+    "vietnamese": "Tôi sống ở đây. Tôi đến từ đây.",
+    "english": "I live here. I am from here.",
+    "audio": "toi_song_o_day_toi_den_tu_day.mp3",
+    "mnemonic": "someone hears 'tôi sống ở đây. tôi đến từ đây.' and it's carved into a tree by a lovesick squirrel."
+  },
+  {
+    "vietnamese": "Hãy cho tôi biết thêm về bản thân bạn.",
+    "english": "Tell me more about yourself.",
+    "audio": "hay_cho_toi_biet_them_ve_ban_than_ban.mp3",
+    "mnemonic": "someone hears 'hãy cho tôi biết thêm về bản thân bạn.' and you see it flash on a karaoke screen with disco lights."
+  },
+  {
+    "vietnamese": "Vậy bạn đang làm gì ở đây?",
+    "english": "So, what are you doing here?",
+    "audio": "vay_ban_dang_lam_gi_o_day.mp3",
+    "mnemonic": "someone hears 'vậy bạn đang làm gì ở đây?' and you see it flash on a karaoke screen with disco lights."
+  },
+  {
+    "vietnamese": "Thật sự? Điều đó thật thú vị!",
+    "english": "Really? That's interesting!",
+    "audio": "that_su_dieu_do_that_thu_vi.mp3",
+    "mnemonic": "someone hears 'thật sự? điều đó thật thú vị!' and a parrot says it every time you open the fridge."
+  },
+  {
+    "vietnamese": "Bạn sẽ ở đây bao lâu?",
+    "english": "How long are you staying here?",
+    "audio": "ban_se_o_day_bao_lau.mp3",
+    "mnemonic": "someone hears 'bạn sẽ ở đây bao lâu?' and you see it flash on a karaoke screen with disco lights."
+  },
+  {
+    "vietnamese": "Tôi sẽ ở đây thêm ba ngày nữa.",
+    "english": "I'll stay here three more days.",
+    "audio": "toi_se_o_day_them_ba_ngay_nua.mp3",
+    "mnemonic": "someone hears 'tôi sẽ ở đây thêm ba ngày nữa.' and it echoes across a valley like a dramatic movie quote."
+  },
+  {
+    "vietnamese": "Tôi sẽ rời đi vào thứ Hai.",
+    "english": "I am leaving on Monday.",
+    "audio": "toi_se_roi_di_vao_thu_hai.mp3",
+    "mnemonic": "someone hears 'tôi sẽ rời đi vào thứ hai.' and it's carved into a tree by a lovesick squirrel."
+  },
+  {
+    "vietnamese": "Bạn đang ở đâu?",
+    "english": "Where are you staying?",
+    "audio": "ban_dang_o_dau.mp3",
+    "mnemonic": "someone hears 'bạn đang ở đâu?' and a dancing animal shouts it while doing backflips."
+  },
+  {
+    "vietnamese": "Tôi đang ở trong một khách sạn, cách đây 5 phút.",
+    "english": "I am staying in a hotel, 5 minutes from here.",
+    "audio": "toi_dang_o_trong_mot_khach_san_cach_day_5_phut.mp3",
+    "mnemonic": "someone hears 'tôi đang ở trong một khách sạn, cách đây 5 phút.' and someone confuses it with a famous song lyric and starts singing."
+  },
+  {
+    "vietnamese": "Căn hộ của tôi cách đây không xa.",
+    "english": "My apartment is not far away from here.",
+    "audio": "can_ho_cua_toi_cach_day_khong_xa.mp3",
+    "mnemonic": "someone hears 'căn hộ của tôi cách đây không xa.' and it's printed on a superhero's cape that flies by yelling it."
+  },
+  {
+    "vietnamese": "Bàn này có miễn phí không?",
+    "english": "Is this table free?",
+    "audio": "ban_nay_co_mien_phi_khong.mp3",
+    "mnemonic": "someone hears 'bàn này có miễn phí không?' and a martial arts master yells it before jumping off a mountain."
+  },
+  {
+    "vietnamese": "Bạn có bàn cho hai người không?",
+    "english": "Do you have a table for two people?",
+    "audio": "ban_co_ban_cho_hai_nguoi_khong.mp3",
+    "mnemonic": "someone hears 'bạn có bàn cho hai người không?' and it's printed on a superhero's cape that flies by yelling it."
+  },
+  {
+    "vietnamese": "Tôi có thể xem thực đơn được không?",
+    "english": "Can I see the menu?",
+    "audio": "toi_co_the_xem_thuc_don_duoc_khong.mp3",
+    "mnemonic": "someone hears 'tôi có thể xem thực đơn được không?' and it's carved into a tree by a lovesick squirrel."
+  },
+  {
+    "vietnamese": "Tôi muốn đặt hàng, xin vui lòng.",
+    "english": "I would like to order, please.",
+    "audio": "toi_muon_dat_hang_xin_vui_long.mp3",
+    "mnemonic": "someone hears 'tôi muốn đặt hàng, xin vui lòng.' and a dancing animal shouts it while doing backflips."
+  },
+  {
+    "vietnamese": "Bạn có muốn uống gì không?",
+    "english": "Do you want something to drink?",
+    "audio": "ban_co_muon_uong_gi_khong.mp3",
+    "mnemonic": "someone hears 'bạn có muốn uống gì không?' and a martial arts master yells it before jumping off a mountain."
+  },
+  {
+    "vietnamese": "Cho tôi xin một cốc nước được không?",
+    "english": "Can I have a glass of water, please?",
+    "audio": "cho_toi_xin_mot_coc_nuoc_duoc_khong.mp3",
+    "mnemonic": "someone hears 'cho tôi xin một cốc nước được không?' and a child writes it with spaghetti noodles on the wall."
+  },
+  {
+    "vietnamese": "Không, cảm ơn. Tôi không uống rượu.",
+    "english": "No, thanks. I don’t drink.",
+    "audio": "khong_cam_on_toi_khong_uong_ruou.mp3",
+    "mnemonic": "someone hears 'không, cảm ơn. tôi không uống rượu.' and a dancing animal shouts it while doing backflips."
+  },
+  {
+    "vietnamese": "Tôi có thể thanh toán bằng thẻ không?",
+    "english": "Can I pay by card?",
+    "audio": "toi_co_the_thanh_toan_bang_the_khong.mp3",
+    "mnemonic": "someone hears 'tôi có thể thanh toán bằng thẻ không?' and thinks it's a secret spell that unlocks a giant talking tôi."
+  },
+  {
+    "vietnamese": "Nhà vệ sinh ở đâu?",
+    "english": "Where's the toilet?",
+    "audio": "nha_ve_sinh_o_dau.mp3",
+    "mnemonic": "someone hears 'nhà vệ sinh ở đâu?' and someone confuses it with a famous song lyric and starts singing."
+  },
+  {
+    "vietnamese": "Bạn đã thử món ăn ở đây chưa?",
+    "english": "Have you tried the food here?",
+    "audio": "ban_da_thu_mon_an_o_day_chua.mp3",
+    "mnemonic": "someone hears 'bạn đã thử món ăn ở đây chưa?' and it echoes across a valley like a dramatic movie quote."
+  },
+  {
+    "vietnamese": "Bạn nghĩ gì về nó?",
+    "english": "What do you think about it?",
+    "audio": "ban_nghi_gi_ve_no.mp3",
+    "mnemonic": "someone hears 'bạn nghĩ gì về nó?' and it echoes across a valley like a dramatic movie quote."
+  },
+  {
+    "vietnamese": "Thật thú vị.",
+    "english": "It's interesting.",
+    "audio": "that_thu_vi.mp3",
+    "mnemonic": "someone hears 'thật thú vị.' and you see it flash on a karaoke screen with disco lights."
+  },
+  {
+    "vietnamese": "Bạn có kế hoạch cho cuối tuần chưa?",
+    "english": "Do you have plans for the weekend?",
+    "audio": "ban_co_ke_hoach_cho_cuoi_tuan_chua.mp3",
+    "mnemonic": "someone hears 'bạn có kế hoạch cho cuối tuần chưa?' and thinks it's a secret spell that unlocks a giant talking bạn."
+  },
+  {
+    "vietnamese": "Rất vui được nói chuyện với bạn.",
+    "english": "It's been nice talking to you.",
+    "audio": "rat_vui_duoc_noi_chuyen_voi_ban.mp3",
+    "mnemonic": "someone hears 'rất vui được nói chuyện với bạn.' and a dancing animal shouts it while doing backflips."
+  },
+  {
+    "vietnamese": "Ngày mai bạn có ở đây không?",
+    "english": "Are you here tomorrow?",
+    "audio": "ngay_mai_ban_co_o_day_khong.mp3",
+    "mnemonic": "someone hears 'ngày mai bạn có ở đây không?' and a martial arts master yells it before jumping off a mountain."
+  },
+  {
+    "vietnamese": "Số điện thoại của bạn là gì?",
+    "english": "What's your phone number?",
+    "audio": "so_dien_thoai_cua_ban_la_gi.mp3",
+    "mnemonic": "someone hears 'số điện thoại của bạn là gì?' and a parrot says it every time you open the fridge."
+  },
+  {
+    "vietnamese": "Chúng ta hãy gặp nhau vào ngày mai.",
+    "english": "Let's meet tomorrow.",
+    "audio": "chung_ta_hay_gap_nhau_vao_ngay_mai.mp3",
+    "mnemonic": "someone hears 'chúng ta hãy gặp nhau vào ngày mai.' and it's printed on a superhero's cape that flies by yelling it."
+  },
+  {
+    "vietnamese": "Hẹn gặp lại sau! Tạm biệt!",
+    "english": "See you later! Bye!",
+    "audio": "hen_gap_lai_sau_tam_biet.mp3",
+    "mnemonic": "someone hears 'hẹn gặp lại sau! tạm biệt!' and a martial arts master yells it before jumping off a mountain."
+  },
+  {
+    "vietnamese": "Bạn có cần giúp đỡ không?",
+    "english": "Do you need help?",
+    "audio": "ban_co_can_giup_do_khong.mp3",
+    "mnemonic": "someone hears 'bạn có cần giúp đỡ không?' and it's carved into a tree by a lovesick squirrel."
+  },
+  {
+    "vietnamese": "Bạn có thể giúp tôi được không?",
+    "english": "Can you help me?",
+    "audio": "ban_co_the_giup_toi_duoc_khong.mp3",
+    "mnemonic": "someone hears 'bạn có thể giúp tôi được không?' and a martial arts master yells it before jumping off a mountain."
+  },
+  {
+    "vietnamese": "Bạn có nói được tiếng Nga không?",
+    "english": "Do you speak Russian?",
+    "audio": "ban_co_noi_duoc_tieng_nga_khong.mp3",
+    "mnemonic": "someone hears 'bạn có nói được tiếng nga không?' and a parrot says it every time you open the fridge."
+  },
+  {
+    "vietnamese": "Tôi có thể nói được một chút tiếng Ả Rập.",
+    "english": "I can speak a little Arabic.",
+    "audio": "toi_co_the_noi_duoc_mot_chut_tieng_a_rap.mp3",
+    "mnemonic": "someone hears 'tôi có thể nói được một chút tiếng ả rập.' and it's carved into a tree by a lovesick squirrel."
+  },
+  {
+    "vietnamese": "Bây giờ tôi đang học tiếng Tây Ban Nha.",
+    "english": "I am learning Spanish now.",
+    "audio": "bay_gio_toi_dang_hoc_tieng_tay_ban_nha.mp3",
+    "mnemonic": "someone hears 'bây giờ tôi đang học tiếng tây ban nha.' and you see it flash on a karaoke screen with disco lights."
+  },
+  {
+    "vietnamese": "Bạn có phải là người Anh không?",
+    "english": "Are you British?",
+    "audio": "ban_co_phai_la_nguoi_anh_khong.mp3",
+    "mnemonic": "someone hears 'bạn có phải là người anh không?' and it's printed on a superhero's cape that flies by yelling it."
+  },
+  {
+    "vietnamese": "Không, tôi không phải người Đức. Và bạn?",
+    "english": "No, I'm not German. And you?",
+    "audio": "khong_toi_khong_phai_nguoi_duc_va_ban.mp3",
+    "mnemonic": "someone hears 'không, tôi không phải người đức. và bạn?' and it's printed on a superhero's cape that flies by yelling it."
+  },
+  {
+    "vietnamese": "Vâng, tôi là người Mỹ.",
+    "english": "Yes, I am American.",
+    "audio": "vang_toi_la_nguoi_my.mp3",
+    "mnemonic": "someone hears 'vâng, tôi là người mỹ.' and it echoes across a valley like a dramatic movie quote."
+  },
+  {
+    "vietnamese": "Tại sao bạn học tiếng Pháp?",
+    "english": "Why are you learning French?",
+    "audio": "tai_sao_ban_hoc_tieng_phap.mp3",
+    "mnemonic": "someone hears 'tại sao bạn học tiếng pháp?' and someone confuses it with a famous song lyric and starts singing."
+  },
+  {
+    "vietnamese": "Tôi đang học tiếng Bồ Đào Nha vì tôi muốn chuyển đến Brazil.",
+    "english": "I am learning Portuguese because I want to move to Brazil.",
+    "audio": "toi_dang_hoc_tieng_bo_dao_nha_vi_toi_muon_chuyen_den_brazil.mp3",
+    "mnemonic": "someone hears 'tôi đang học tiếng bồ đào nha vì tôi muốn chuyển đến brazil.' and thinks it's a secret spell that unlocks a giant talking tôi."
+  },
+  {
+    "vietnamese": "Tôi muốn học tiếng Ý vì tôi có những người bạn Ý.",
+    "english": "I want to learn Italian because I have Italian friends.",
+    "audio": "toi_muon_hoc_tieng_y_vi_toi_co_nhung_nguoi_ban_y.mp3",
+    "mnemonic": "someone hears 'tôi muốn học tiếng ý vì tôi có những người bạn ý.' and someone confuses it with a famous song lyric and starts singing."
+  },
+  {
+    "vietnamese": "Tôi học tiếng Nga vì tôi có bạn gái người Ukraine.",
+    "english": "I learned Russian because I had a Ukrainian girlfriend.",
+    "audio": "toi_hoc_tieng_nga_vi_toi_co_ban_gai_nguoi_ukraine.mp3",
+    "mnemonic": "someone hears 'tôi học tiếng nga vì tôi có bạn gái người ukraine.' and it's printed on a superhero's cape that flies by yelling it."
+  },
+  {
+    "vietnamese": "Đó là một ngôn ngữ thú vị.",
+    "english": "It is an interesting language.",
+    "audio": "do_la_mot_ngon_ngu_thu_vi.mp3",
+    "mnemonic": "someone hears 'đó là một ngôn ngữ thú vị.' and it echoes across a valley like a dramatic movie quote."
+  },
+  {
+    "vietnamese": "Bạn đang làm gì ở đây?",
+    "english": "What are you doing here?",
+    "audio": "ban_dang_lam_gi_o_day.mp3",
+    "mnemonic": "someone hears 'bạn đang làm gì ở đây?' and thinks it's a secret spell that unlocks a giant talking bạn."
+  },
+  {
+    "vietnamese": "Tôi đang đợi một người bạn.",
+    "english": "I am waiting for a friend.",
+    "audio": "toi_dang_doi_mot_nguoi_ban.mp3",
+    "mnemonic": "someone hears 'tôi đang đợi một người bạn.' and thinks it's a secret spell that unlocks a giant talking tôi."
+  },
+  {
+    "vietnamese": "Bạn có thuốc lá không?",
+    "english": "Do you have a cigarette?",
+    "audio": "ban_co_thuoc_la_khong.mp3",
+    "mnemonic": "someone hears 'bạn có thuốc lá không?' and a dancing animal shouts it while doing backflips."
+  },
+  {
+    "vietnamese": "Xin lỗi, anh bạn. Tôi không hút thuốc.",
+    "english": "Sorry, mate. I don't smoke.",
+    "audio": "xin_loi_anh_ban_toi_khong_hut_thuoc.mp3",
+    "mnemonic": "someone hears 'xin lỗi, anh bạn. tôi không hút thuốc.' and it echoes across a valley like a dramatic movie quote."
+  },
+  {
+    "vietnamese": "Bạn có hút thuốc không? Bạn có muốn một điếu thuốc không?",
+    "english": "Do you smoke? Do you want a cigarette?",
+    "audio": "ban_co_hut_thuoc_khong_ban_co_muon_mot_dieu_thuoc_khong.mp3",
+    "mnemonic": "someone hears 'bạn có hút thuốc không? bạn có muốn một điếu thuốc không?' and someone confuses it with a famous song lyric and starts singing."
+  },
+  {
+    "vietnamese": "Không, cảm ơn bạn.",
+    "english": "No, thank you.",
+    "audio": "khong_cam_on_ban.mp3",
+    "mnemonic": "someone hears 'không, cảm ơn bạn.' and it echoes across a valley like a dramatic movie quote."
+  },
+  {
+    "vietnamese": "Bạn có muốn uống gì không?",
+    "english": "Do you want something to drink?",
+    "audio": "ban_co_muon_uong_gi_khong.mp3",
+    "mnemonic": "someone hears 'bạn có muốn uống gì không?' and you see it flash on a karaoke screen with disco lights."
+  },
+  {
+    "vietnamese": "Bạn có muốn uống bia không?",
+    "english": "Do you want a beer?",
+    "audio": "ban_co_muon_uong_bia_khong.mp3",
+    "mnemonic": "someone hears 'bạn có muốn uống bia không?' and it echoes across a valley like a dramatic movie quote."
+  },
+  {
+    "vietnamese": "Tôi muốn một cốc bia, cảm ơn bạn.",
+    "english": "I want a beer, thank you.",
+    "audio": "toi_muon_mot_coc_bia_cam_on_ban.mp3",
+    "mnemonic": "someone hears 'tôi muốn một cốc bia, cảm ơn bạn.' and you see it flash on a karaoke screen with disco lights."
+  },
+  {
+    "vietnamese": "Và một cái khác cho bạn tôi.",
+    "english": "And another one for my friend.",
+    "audio": "va_mot_cai_khac_cho_ban_toi.mp3",
+    "mnemonic": "someone hears 'và một cái khác cho bạn tôi.' and it echoes across a valley like a dramatic movie quote."
+  },
+  {
+    "vietnamese": "Làm ơn cho hai cốc bia!",
+    "english": "Two beers please!",
+    "audio": "lam_on_cho_hai_coc_bia.mp3",
+    "mnemonic": "someone hears 'làm ơn cho hai cốc bia!' and a dancing animal shouts it while doing backflips."
+  },
+  {
+    "vietnamese": "Nó là bao nhiêu?",
+    "english": "How much is it?",
+    "audio": "no_la_bao_nhieu.mp3",
+    "mnemonic": "someone hears 'nó là bao nhiêu?' and thinks it's a secret spell that unlocks a giant talking nó."
+  },
+  {
+    "vietnamese": "Bạn có muốn uống rượu tequila không?",
+    "english": "Do you want tequila?",
+    "audio": "ban_co_muon_uong_ruou_tequila_khong.mp3",
+    "mnemonic": "someone hears 'bạn có muốn uống rượu tequila không?' and a parrot says it every time you open the fridge."
+  },
+  {
+    "vietnamese": "Không, cảm ơn, tôi không uống rượu tequila.",
+    "english": "No thanks, I don't drink tequila.",
+    "audio": "khong_cam_on_toi_khong_uong_ruou_tequila.mp3",
+    "mnemonic": "someone hears 'không, cảm ơn, tôi không uống rượu tequila.' and a child writes it with spaghetti noodles on the wall."
+  },
+  {
+    "vietnamese": "Bạn làm nghề gì?",
+    "english": "What do you do for a living?",
+    "audio": "ban_lam_nghe_gi.mp3",
+    "mnemonic": "someone hears 'bạn làm nghề gì?' and a dancing animal shouts it while doing backflips."
+  },
+  {
+    "vietnamese": "Tôi có công việc kinh doanh riêng của mình.",
+    "english": "I have my own business.",
+    "audio": "toi_co_cong_viec_kinh_doanh_rieng_cua_minh.mp3",
+    "mnemonic": "someone hears 'tôi có công việc kinh doanh riêng của mình.' and a dancing animal shouts it while doing backflips."
+  },
+  {
+    "vietnamese": "Bạn có giúp mọi người học ngôn ngữ không?",
+    "english": "Do you help people learn languages?",
+    "audio": "ban_co_giup_moi_nguoi_hoc_ngon_ngu_khong.mp3",
+    "mnemonic": "someone hears 'bạn có giúp mọi người học ngôn ngữ không?' and you see it flash on a karaoke screen with disco lights."
+  },
+  {
+    "vietnamese": "Chính xác là tôi giúp mọi người học nhanh hơn, không lãng phí thời gian.",
+    "english": "Exactly, I help people learn faster, without wasting time.",
+    "audio": "chinh_xac_la_toi_giup_moi_nguoi_hoc_nhanh_hon_khong_lang_phi_thoi_gian.mp3",
+    "mnemonic": "someone hears 'chính xác là tôi giúp mọi người học nhanh hơn, không lãng phí thời gian.' and a parrot says it every time you open the fridge."
+  },
+  {
+    "vietnamese": "Bạn có làm việc nhiều không?",
+    "english": "Do you work a lot?",
+    "audio": "ban_co_lam_viec_nhieu_khong.mp3",
+    "mnemonic": "someone hears 'bạn có làm việc nhiều không?' and a parrot says it every time you open the fridge."
+  },
+  {
+    "vietnamese": "Tôi làm việc rất nhiều.",
+    "english": "I work a lot.",
+    "audio": "toi_lam_viec_rat_nhieu.mp3",
+    "mnemonic": "someone hears 'tôi làm việc rất nhiều.' and a parrot says it every time you open the fridge."
+  },
+  {
+    "vietnamese": "Tôi thích công việc của tôi.",
+    "english": "I like my work.",
+    "audio": "toi_thich_cong_viec_cua_toi.mp3",
+    "mnemonic": "someone hears 'tôi thích công việc của tôi.' and a martial arts master yells it before jumping off a mountain."
+  },
+  {
+    "vietnamese": "Tôi không ngại làm việc nhiều.",
+    "english": "I don't mind working a lot.",
+    "audio": "toi_khong_ngai_lam_viec_nhieu.mp3",
+    "mnemonic": "someone hears 'tôi không ngại làm việc nhiều.' and a parrot says it every time you open the fridge."
+  },
+  {
+    "vietnamese": "Bạn đã làm công việc này được bao lâu rồi?",
+    "english": "How long have you been doing this job?",
+    "audio": "ban_da_lam_cong_viec_nay_duoc_bao_lau_roi.mp3",
+    "mnemonic": "someone hears 'bạn đã làm công việc này được bao lâu rồi?' and it's printed on a superhero's cape that flies by yelling it."
+  },
+  {
+    "vietnamese": "Trước đây bạn đã làm gì?",
+    "english": "What did you do before?",
+    "audio": "truoc_day_ban_da_lam_gi.mp3",
+    "mnemonic": "someone hears 'trước đây bạn đã làm gì?' and you see it flash on a karaoke screen with disco lights."
+  },
+  {
+    "vietnamese": "Bạn đã có những công việc nào khác?",
+    "english": "What other jobs have you had?",
+    "audio": "ban_da_co_nhung_cong_viec_nao_khac.mp3",
+    "mnemonic": "someone hears 'bạn đã có những công việc nào khác?' and it's printed on a superhero's cape that flies by yelling it."
+  },
+  {
+    "vietnamese": "Tôi từng làm việc tại Đại sứ quán Tây Ban Nha ở Berlin.",
+    "english": "I used to work in the Embassy of Spain in Berlin.",
+    "audio": "toi_tung_lam_viec_tai_dai_su_quan_tay_ban_nha_o_berlin.mp3",
+    "mnemonic": "someone hears 'tôi từng làm việc tại đại sứ quán tây ban nha ở berlin.' and someone confuses it with a famous song lyric and starts singing."
+  },
+  {
+    "vietnamese": "Bạn đã từng đến Rumani chưa?",
+    "english": "Have you ever been to Romania?",
+    "audio": "ban_da_tung_den_rumani_chua.mp3",
+    "mnemonic": "someone hears 'bạn đã từng đến rumani chưa?' and it's carved into a tree by a lovesick squirrel."
+  },
+  {
+    "vietnamese": "Tôi đã đến Pháp nhiều lần.",
+    "english": "I have been to France many times.",
+    "audio": "toi_da_den_phap_nhieu_lan.mp3",
+    "mnemonic": "someone hears 'tôi đã đến pháp nhiều lần.' and a dancing animal shouts it while doing backflips."
+  },
+  {
+    "vietnamese": "Tôi chưa bao giờ đến Trung Quốc.",
+    "english": "I have never been to China.",
+    "audio": "toi_chua_bao_gio_den_trung_quoc.mp3",
+    "mnemonic": "someone hears 'tôi chưa bao giờ đến trung quốc.' and a martial arts master yells it before jumping off a mountain."
+  },
+  {
+    "vietnamese": "Tôi thường xuyên đến Bồ Đào Nha.",
+    "english": "I go to Portugal often.",
+    "audio": "toi_thuong_xuyen_den_bo_dao_nha.mp3",
+    "mnemonic": "someone hears 'tôi thường xuyên đến bồ đào nha.' and a parrot says it every time you open the fridge."
+  },
+  {
+    "vietnamese": "Tôi đã đến Hàn Quốc một lần.",
+    "english": "I have been to Korea once.",
+    "audio": "toi_da_den_han_quoc_mot_lan.mp3",
+    "mnemonic": "someone hears 'tôi đã đến hàn quốc một lần.' and you see it flash on a karaoke screen with disco lights."
+  },
+  {
+    "vietnamese": "Bạn đã đi học đại học?",
+    "english": "Did you go to university?",
+    "audio": "ban_da_di_hoc_dai_hoc.mp3",
+    "mnemonic": "someone hears 'bạn đã đi học đại học?' and a parrot says it every time you open the fridge."
+  },
+  {
+    "vietnamese": "Bạn đã học gì?",
+    "english": "What did you study?",
+    "audio": "ban_da_hoc_gi.mp3",
+    "mnemonic": "someone hears 'bạn đã học gì?' and it's printed on a superhero's cape that flies by yelling it."
+  },
+  {
+    "vietnamese": "Tôi đã học ở ba trường đại học khác nhau.",
+    "english": "I went to three different universities.",
+    "audio": "toi_da_hoc_o_ba_truong_dai_hoc_khac_nhau.mp3",
+    "mnemonic": "someone hears 'tôi đã học ở ba trường đại học khác nhau.' and a dancing animal shouts it while doing backflips."
+  },
+  {
+    "vietnamese": "Tôi có bằng thạc sĩ về dịch thuật và kinh doanh quốc tế.",
+    "english": "I have masters degrees in translation and international business.",
+    "audio": "toi_co_bang_thac_si_ve_dich_thuat_va_kinh_doanh_quoc_te.mp3",
+    "mnemonic": "someone hears 'tôi có bằng thạc sĩ về dịch thuật và kinh doanh quốc tế.' and a martial arts master yells it before jumping off a mountain."
+  },
+  {
+    "vietnamese": "Nhưng tôi không phải là một học sinh giỏi.",
+    "english": "But I wasn’t a very good student.",
+    "audio": "nhung_toi_khong_phai_la_mot_hoc_sinh_gioi.mp3",
+    "mnemonic": "someone hears 'nhưng tôi không phải là một học sinh giỏi.' and a parrot says it every time you open the fridge."
+  },
+  {
+    "vietnamese": "Tôi từng làm việc như một dịch giả.",
+    "english": "I used to work as a translator.",
+    "audio": "toi_tung_lam_viec_nhu_mot_dich_gia.mp3",
+    "mnemonic": "someone hears 'tôi từng làm việc như một dịch giả.' and a parrot says it every time you open the fridge."
+  },
+  {
+    "vietnamese": "Dịch khá chán, phải viết nhiều.",
+    "english": "Translation is quite boring, you have to write a lot.",
+    "audio": "dich_kha_chan_phai_viet_nhieu.mp3",
+    "mnemonic": "someone hears 'dịch khá chán, phải viết nhiều.' and a dancing animal shouts it while doing backflips."
+  },
+  {
+    "vietnamese": "Bạn làm gì trong thời gian rảnh?",
+    "english": "What do you do in your free time?",
+    "audio": "ban_lam_gi_trong_thoi_gian_ranh.mp3",
+    "mnemonic": "someone hears 'bạn làm gì trong thời gian rảnh?' and it echoes across a valley like a dramatic movie quote."
+  },
+  {
+    "vietnamese": "Khi rảnh rỗi, tôi đọc sách, tập thể dục, tập võ và gặp gỡ bạn bè.",
+    "english": "In my free time I read, I work out, I train in martial arts and I meet my friends.",
+    "audio": "khi_ranh_roi_toi_doc_sach_tap_the_duc_tap_vo_va_gap_go_ban_be.mp3",
+    "mnemonic": "someone hears 'khi rảnh rỗi, tôi đọc sách, tập thể dục, tập võ và gặp gỡ bạn bè.' and you see it flash on a karaoke screen with disco lights."
+  },
+  {
+    "vietnamese": "Tôi thích đọc sách.",
+    "english": "I like reading.",
+    "audio": "toi_thich_doc_sach.mp3",
+    "mnemonic": "someone hears 'tôi thích đọc sách.' and it's printed on a superhero's cape that flies by yelling it."
+  },
+  {
+    "vietnamese": "Tôi đọc rất nhiều, chủ yếu là về lịch sử.",
+    "english": "I read a lot, mostly about history.",
+    "audio": "toi_doc_rat_nhieu_chu_yeu_la_ve_lich_su.mp3",
+    "mnemonic": "someone hears 'tôi đọc rất nhiều, chủ yếu là về lịch sử.' and someone confuses it with a famous song lyric and starts singing."
+  },
+  {
+    "vietnamese": "Và tất nhiên, tôi thích học ngôn ngữ.",
+    "english": "And of course, I like to learn languages.",
+    "audio": "va_tat_nhien_toi_thich_hoc_ngon_ngu.mp3",
+    "mnemonic": "someone hears 'và tất nhiên, tôi thích học ngôn ngữ.' and it's carved into a tree by a lovesick squirrel."
+  },
+  {
+    "vietnamese": "Tôi không có nhiều thời gian rảnh, tôi làm việc rất nhiều.",
+    "english": "I don’t have much free time, I work a lot.",
+    "audio": "toi_khong_co_nhieu_thoi_gian_ranh_toi_lam_viec_rat_nhieu.mp3",
+    "mnemonic": "someone hears 'tôi không có nhiều thời gian rảnh, tôi làm việc rất nhiều.' and a child writes it with spaghetti noodles on the wall."
+  },
+  {
+    "vietnamese": "Bạn có đến quán bar và nhà hàng không?",
+    "english": "Do you go to bars and restaurants?",
+    "audio": "ban_co_den_quan_bar_va_nha_hang_khong.mp3",
+    "mnemonic": "someone hears 'bạn có đến quán bar và nhà hàng không?' and you see it flash on a karaoke screen with disco lights."
+  },
+  {
+    "vietnamese": "Vâng tất nhiên.",
+    "english": "Yes, of course.",
+    "audio": "vang_tat_nhien.mp3",
+    "mnemonic": "someone hears 'vâng tất nhiên.' and someone confuses it with a famous song lyric and starts singing."
+  },
+  {
+    "vietnamese": "Mọi người đều làm điều đó ở đây!",
+    "english": "Everyone does that here!",
+    "audio": "moi_nguoi_deu_lam_dieu_do_o_day.mp3",
+    "mnemonic": "someone hears 'mọi người đều làm điều đó ở đây!' and a child writes it with spaghetti noodles on the wall."
+  },
+  {
+    "vietnamese": "Bạn có đến phòng gym nhiều không?",
+    "english": "Do you go to the gym a lot?",
+    "audio": "ban_co_den_phong_gym_nhieu_khong.mp3",
+    "mnemonic": "someone hears 'bạn có đến phòng gym nhiều không?' and it's printed on a superhero's cape that flies by yelling it."
+  },
+  {
+    "vietnamese": "Tôi tập luyện gần như mỗi ngày.",
+    "english": "I train almost every day.",
+    "audio": "toi_tap_luyen_gan_nhu_moi_ngay.mp3",
+    "mnemonic": "someone hears 'tôi tập luyện gần như mỗi ngày.' and thinks it's a secret spell that unlocks a giant talking tôi."
+  },
+  {
+    "vietnamese": "Tôi nâng tạ và tập võ thuật.",
+    "english": "I lift weights and I do martial arts.",
+    "audio": "toi_nang_ta_va_tap_vo_thuat.mp3",
+    "mnemonic": "someone hears 'tôi nâng tạ và tập võ thuật.' and it's carved into a tree by a lovesick squirrel."
+  },
+  {
+    "vietnamese": "Tôi sống cạnh bãi biển.",
+    "english": "I live next to the beach.",
+    "audio": "toi_song_canh_bai_bien.mp3",
+    "mnemonic": "someone hears 'tôi sống cạnh bãi biển.' and it echoes across a valley like a dramatic movie quote."
+  },
+  {
+    "vietnamese": "Khi thời tiết tốt tôi chạy trên bãi biển.",
+    "english": "When the weather is good I run on the beach.",
+    "audio": "khi_thoi_tiet_tot_toi_chay_tren_bai_bien.mp3",
+    "mnemonic": "someone hears 'khi thời tiết tốt tôi chạy trên bãi biển.' and a martial arts master yells it before jumping off a mountain."
+  },
+  {
+    "vietnamese": "Tôi phải chơi thể thao rất nhiều vì tôi làm việc ở văn phòng.",
+    "english": "I have to do a lot of sports because I work in an office.",
+    "audio": "toi_phai_choi_the_thao_rat_nhieu_vi_toi_lam_viec_o_van_phong.mp3",
+    "mnemonic": "someone hears 'tôi phải chơi thể thao rất nhiều vì tôi làm việc ở văn phòng.' and a child writes it with spaghetti noodles on the wall."
+  },
+  {
+    "vietnamese": "Khi làm việc, tôi luôn ngồi trước máy tính.",
+    "english": "When I work, I am always sitting in front of a computer.",
+    "audio": "khi_lam_viec_toi_luon_ngoi_truoc_may_tinh.mp3",
+    "mnemonic": "someone hears 'khi làm việc, tôi luôn ngồi trước máy tính.' and a child writes it with spaghetti noodles on the wall."
+  },
+  {
+    "vietnamese": "Điều đó không tốt cho cơ thể và tâm trí của bạn.",
+    "english": "That is not healthy for your body and your mind.",
+    "audio": "dieu_do_khong_tot_cho_co_the_va_tam_tri_cua_ban.mp3",
+    "mnemonic": "someone hears 'điều đó không tốt cho cơ thể và tâm trí của bạn.' and a parrot says it every time you open the fridge."
+  },
+  {
+    "vietnamese": "Bạn chơi môn thể thao nào?",
+    "english": "What kind of sports do you do?",
+    "audio": "ban_choi_mon_the_thao_nao.mp3",
+    "mnemonic": "someone hears 'bạn chơi môn thể thao nào?' and someone confuses it with a famous song lyric and starts singing."
+  },
+  {
+    "vietnamese": "Tôi chơi bóng đá, tôi đến phòng tập thể hình và chạy bộ.",
+    "english": "I play football, I go to the gym and I go for runs.",
+    "audio": "toi_choi_bong_da_toi_den_phong_tap_the_hinh_va_chay_bo.mp3",
+    "mnemonic": "someone hears 'tôi chơi bóng đá, tôi đến phòng tập thể hình và chạy bộ.' and someone confuses it with a famous song lyric and starts singing."
+  },
+  {
+    "vietnamese": "Bạn khuyên tôi nên thử món ăn nào?",
+    "english": "Which food do you recommend me to try?",
+    "audio": "ban_khuyen_toi_nen_thu_mon_an_nao.mp3",
+    "mnemonic": "someone hears 'bạn khuyên tôi nên thử món ăn nào?' and a parrot says it every time you open the fridge."
+  },
+  {
+    "vietnamese": "Có rất nhiều loại thực phẩm khác nhau mà bạn nên thử.",
+    "english": "There are a lot of different types of food that you should try.",
+    "audio": "co_rat_nhieu_loai_thuc_pham_khac_nhau_ma_ban_nen_thu.mp3",
+    "mnemonic": "someone hears 'có rất nhiều loại thực phẩm khác nhau mà bạn nên thử.' and a parrot says it every time you open the fridge."
+  },
+  {
+    "vietnamese": "Thành phố này nổi tiếng với ẩm thực, cả truyền thống và hiện đại.",
+    "english": "The city is famous for its cuisine, both traditional and modern.",
+    "audio": "thanh_pho_nay_noi_tieng_voi_am_thuc_ca_truyen_thong_va_hien_dai.mp3",
+    "mnemonic": "someone hears 'thành phố này nổi tiếng với ẩm thực, cả truyền thống và hiện đại.' and you see it flash on a karaoke screen with disco lights."
+  },
+  {
+    "vietnamese": "Bạn có thích đồ ăn Mexico không?",
+    "english": "Do you like Mexican food?",
+    "audio": "ban_co_thich_do_an_mexico_khong.mp3",
+    "mnemonic": "someone hears 'bạn có thích đồ ăn mexico không?' and thinks it's a secret spell that unlocks a giant talking bạn."
+  },
+  {
+    "vietnamese": "Tôi rất thích đồ ăn Mexico, nó rất ngon.",
+    "english": "I like Mexican food a lot, it's delicious.",
+    "audio": "toi_rat_thich_do_an_mexico_no_rat_ngon.mp3",
+    "mnemonic": "someone hears 'tôi rất thích đồ ăn mexico, nó rất ngon.' and thinks it's a secret spell that unlocks a giant talking tôi."
+  },
+  {
+    "vietnamese": "Đồ ăn Ý cũng thực sự ngon.",
+    "english": "Italian food is also really good.",
+    "audio": "do_an_y_cung_thuc_su_ngon.mp3",
+    "mnemonic": "someone hears 'đồ ăn ý cũng thực sự ngon.' and a parrot says it every time you open the fridge."
+  },
+  {
+    "vietnamese": "Tôi ăn pizza rất thường xuyên, có thể là quá nhiều.",
+    "english": "I eat pizza very often, maybe too much.",
+    "audio": "toi_an_pizza_rat_thuong_xuyen_co_the_la_qua_nhieu.mp3",
+    "mnemonic": "someone hears 'tôi ăn pizza rất thường xuyên, có thể là quá nhiều.' and a martial arts master yells it before jumping off a mountain."
+  },
+  {
+    "vietnamese": "Đó là lý do tại sao tôi phải tập luyện rất nhiều!",
+    "english": "That's why I have to work out a lot!",
+    "audio": "do_la_ly_do_tai_sao_toi_phai_tap_luyen_rat_nhieu.mp3",
+    "mnemonic": "someone hears 'đó là lý do tại sao tôi phải tập luyện rất nhiều!' and a child writes it with spaghetti noodles on the wall."
+  },
+  {
+    "vietnamese": "Bạn có thích Kebab không?",
+    "english": "Do you like Kebab?",
+    "audio": "ban_co_thich_kebab_khong.mp3",
+    "mnemonic": "someone hears 'bạn có thích kebab không?' and a martial arts master yells it before jumping off a mountain."
+  },
+  {
+    "vietnamese": "Tôi thích Kebab, nhưng ở Tây Ban Nha thì nó không ngon lắm.",
+    "english": "I like Kebab, but in Spain it is not very good.",
+    "audio": "toi_thich_kebab_nhung_o_tay_ban_nha_thi_no_khong_ngon_lam.mp3",
+    "mnemonic": "someone hears 'tôi thích kebab, nhưng ở tây ban nha thì nó không ngon lắm.' and a dancing animal shouts it while doing backflips."
+  },
+  {
+    "vietnamese": "Ở Đức có những quán Kebab rất ngon vì có rất nhiều người Thổ Nhĩ Kỳ sống ở đó.",
+    "english": "In Germany there are very good Kebab places, because a lot of Turks live there.",
+    "audio": "o_duc_co_nhung_quan_kebab_rat_ngon_vi_co_rat_nhieu_nguoi_tho_nhi_ky_song_o_do.mp3",
+    "mnemonic": "someone hears 'ở đức có những quán kebab rất ngon vì có rất nhiều người thổ nhĩ kỳ sống ở đó.' and a parrot says it every time you open the fridge."
+  },
+  {
+    "vietnamese": "Tôi đã từng sống ở Đức.",
+    "english": "I used to live in Germany.",
+    "audio": "toi_da_tung_song_o_duc.mp3",
+    "mnemonic": "someone hears 'tôi đã từng sống ở đức.' and a martial arts master yells it before jumping off a mountain."
+  },
+  {
+    "vietnamese": "Tôi thích nước Đức nhưng tôi thích quê hương của tôi hơn.",
+    "english": "I like Germany, but I prefer my hometown.",
+    "audio": "toi_thich_nuoc_duc_nhung_toi_thich_que_huong_cua_toi_hon.mp3",
+    "mnemonic": "someone hears 'tôi thích nước đức nhưng tôi thích quê hương của tôi hơn.' and it echoes across a valley like a dramatic movie quote."
+  },
+  {
+    "vietnamese": "Đất nước của bạn như thế nào?",
+    "english": "What is your country like?",
+    "audio": "dat_nuoc_cua_ban_nhu_the_nao.mp3",
+    "mnemonic": "someone hears 'đất nước của bạn như thế nào?' and it's printed on a superhero's cape that flies by yelling it."
+  },
+  {
+    "vietnamese": "Đồ ăn ở đó ngon không?",
+    "english": "Is the food good there?",
+    "audio": "do_an_o_do_ngon_khong.mp3",
+    "mnemonic": "someone hears 'đồ ăn ở đó ngon không?' and it's printed on a superhero's cape that flies by yelling it."
+  },
+  {
+    "vietnamese": "Bạn nghĩ gì?",
+    "english": "What do you think?",
+    "audio": "ban_nghi_gi.mp3",
+    "mnemonic": "someone hears 'bạn nghĩ gì?' and thinks it's a secret spell that unlocks a giant talking bạn."
+  },
+  {
+    "vietnamese": "Bạn vẫn nghĩ việc học ngôn ngữ là khó khăn?",
+    "english": "Do you still think language learning is difficult?",
+    "audio": "ban_van_nghi_viec_hoc_ngon_ngu_la_kho_khan.mp3",
+    "mnemonic": "someone hears 'bạn vẫn nghĩ việc học ngôn ngữ là khó khăn?' and a parrot says it every time you open the fridge."
+  },
+  {
+    "vietnamese": "Nếu bạn học được một nghìn câu hay, bạn có thể nói tốt ngôn ngữ đó.",
+    "english": "If you learn one thousand good sentences, you can speak the language well.",
+    "audio": "neu_ban_hoc_duoc_mot_nghin_cau_hay_ban_co_the_noi_tot_ngon_ngu_do.mp3",
+    "mnemonic": "someone hears 'nếu bạn học được một nghìn câu hay, bạn có thể nói tốt ngôn ngữ đó.' and a parrot says it every time you open the fridge."
+  },
+  {
+    "vietnamese": "Bạn có thể làm điều đó trong ba tháng hoặc ít hơn.",
+    "english": "You can do that in three months or less.",
+    "audio": "ban_co_the_lam_dieu_do_trong_ba_thang_hoac_it_hon.mp3",
+    "mnemonic": "someone hears 'bạn có thể làm điều đó trong ba tháng hoặc ít hơn.' and you see it flash on a karaoke screen with disco lights."
+  },
+  {
+    "vietnamese": "Với một hệ thống hiệu quả và một số kỷ luật, bạn có thể học bất kỳ ngôn ngữ nào một cách nhanh chóng.",
+    "english": "With an effective system and some discipline, you can learn any language fast.",
+    "audio": "voi_mot_he_thong_hieu_qua_va_mot_so_ky_luat_ban_co_the_hoc_bat_ky_ngon_ngu_nao_mot_cach_nhanh_chong.mp3",
+    "mnemonic": "someone hears 'với một hệ thống hiệu quả và một số kỷ luật, bạn có thể học bất kỳ ngôn ngữ nào một cách nhanh chóng.' and a martial arts master yells it before jumping off a mountain."
+  }
 ]
-                      
-                 
-        
-      
-    
