@@ -2,6 +2,7 @@
 import 'package:flutter/material.dart';
 import 'lesson_page.dart';
 import 'words_page.dart';
+import 'most_common_sentences_page.dart';
 import 'Pimsleur_lessons/pimsleur_lesson02.dart';
 import 'Pimsleur_lessons/00pimsleur_lessons_page.dart';
 
@@ -39,6 +40,28 @@ class HomePage extends StatelessWidget {
               },
             ),
           ),
+
+
+
+
+
+          Card(
+            child: ListTile(
+              title: const Text('Most Common Sentences'),
+              subtitle: const Text('152 daily conversation phrases'),
+              trailing: const Icon(Icons.arrow_forward_ios),
+              onTap: () => Navigator.push(
+                context,
+                MaterialPageRoute(builder: (context) => const MostCommonSentencesPage()),
+              ),
+            ),
+          ),
+
+
+
+
+
+
           const SizedBox(height: 10),
           const Text('Pimsleur Lessons', style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
           Card(

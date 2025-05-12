@@ -27,3 +27,6 @@ flutter:
     - assets/audio/lesson02_audio/
     - assets/data/lesson02_words.json
     - assets/data/basic_words.json
+    - assets/data/most_common_sentences.json
+    - assets/audio/most_common_sentences/
+
