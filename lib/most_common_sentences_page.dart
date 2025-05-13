@@ -48,17 +48,17 @@ class _MostCommonSentencesPageState extends State<MostCommonSentencesPage> {
         continue;
       }
 
-      print("Now playing: \${sentence['vietnamese']} (\$audioPath)");
+      print("Now playing: ${sentence['vietnamese']} ($audioPath)");
 
       await _audioPlayer.setSource(AssetSource("audio/most_common_sentences/$audioPath"));
       setState(() {}); // To update highlight
       await _audioPlayer.resume();
       await _audioPlayer.onPlayerComplete.first;
 
-      if (!_isPlayingAll) break; // Break if playback was stopped externally
+      if (!_isPlayingAll) break;
 
       _currentIndex++;
-        setState(() {});
+      setState(() {});
 
       if (_currentIndex >= _sentences.length && _loop) {
         setState(() => _currentIndex = 0);
@@ -117,45 +117,96 @@ class _MostCommonSentencesPageState extends State<MostCommonSentencesPage> {
               ],
             ),
             const SizedBox(height: 20),
-            Expanded(
-              child: ListView.builder(
-                itemCount: _sentences.length,
-                itemBuilder: (context, index) {
-                  final sentence = _sentences[index];
-                  final isCurrent = index == _currentIndex;
-                  final sentenceText = sentence['vietnamese'] as String? ?? '[No sentence]';
-                  final audioPath = sentence['audio'];
+Expanded(
+  child: SingleChildScrollView(
+    child: Padding(
+      padding: const EdgeInsets.only(bottom: 16),
+      child: Wrap(
+        spacing: 12,
+        runSpacing: 12,
+        alignment: WrapAlignment.center,
+        children: _sentences.map((sentence) {
+          final index = _sentences.indexOf(sentence);
+          final isCurrent = index == _currentIndex;
+          final audioPath = sentence['audio'];
 
-                  return Card(
-                    color: isCurrent ? Colors.yellow[100] : null,
-                    margin: const EdgeInsets.symmetric(vertical: 8.0),
-                    child: ListTile(
-                      title: Text(sentenceText),
-                      subtitle: Column(
-                        crossAxisAlignment: CrossAxisAlignment.start,
-                        children: [
-                          Text(sentence['english'] as String? ?? ''),
-                          if (sentence.containsKey('mnemonic'))
-                            Text('💡 ' + sentence['mnemonic'], style: const TextStyle(fontStyle: FontStyle.italic, fontSize: 12)),
-                        ],
-                      ),
-                      trailing: IconButton(
-                        icon: const Icon(Icons.play_arrow),
-                        onPressed: () async {
-                          if (audioPath != null && audioPath is String && audioPath.isNotEmpty) {
-                            setState(() {
-                              _currentIndex = index;
-                              _isPlayingAll = false;
-                            });
-                            await _audioPlayer.play(AssetSource("audio/most_common_sentences/$audioPath"));
-                          }
-                        },
-                      ),
-                    ),
-                  );
-                },
+          return InkWell(
+            onTap: () async {
+              if (audioPath != null && audioPath is String && audioPath.isNotEmpty) {
+                setState(() {
+                  _currentIndex = index;
+                  _isPlayingAll = false;
+                });
+                await _audioPlayer.play(AssetSource("audio/most_common_sentences/$audioPath"));
+              }
+            },
+            child: SizedBox(
+              width: MediaQuery.of(context).size.width / 2 - 24, // 2 cards per row
+              child: Card(
+                color: isCurrent ? Colors.yellow[100] : null,
+                shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
+                elevation: 1,
+                child: Padding(
+                  padding: const EdgeInsets.all(6.0),
+child: Column(
+  crossAxisAlignment: CrossAxisAlignment.center,  // Center horizontally
+  mainAxisAlignment: MainAxisAlignment.center,    // Center vertically
+  mainAxisSize: MainAxisSize.min, // Shrink to fit content
+  children: [
+    Text(
+      sentence['vietnamese'] ?? '',
+      style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 13),
+      textAlign: TextAlign.center,  // Center text horizontally
+      softWrap: true,
+      overflow: TextOverflow.visible,
+    ),
+    const SizedBox(height: 4),
+    Text(
+      sentence['english'] ?? '',
+      style: const TextStyle(fontSize: 12),
+      textAlign: TextAlign.center,  // Center text horizontally
+      softWrap: true,
+      overflow: TextOverflow.visible,
+    ),
+    if (sentence.containsKey('mnemonic'))
+      Padding(
+        padding: const EdgeInsets.only(top: 4),
+        child: Text(
+          '💡 ${sentence['mnemonic']}',
+          style: const TextStyle(fontSize: 10, fontStyle: FontStyle.italic),
+          textAlign: TextAlign.center,  // Center text horizontally
+          softWrap: true,
+          overflow: TextOverflow.visible,
+        ),
+
+                        ),
+                      const SizedBox(height: 6),
+                      if (sentence.containsKey('mnemonic_image') && sentence['mnemonic_image'] != null)
+                        ClipRRect(
+                          borderRadius: BorderRadius.circular(6),
+                          child: Image.asset(
+                            sentence['mnemonic_image'],
+                            height: 100,
+                            width: double.infinity,
+                            fit: BoxFit.contain,
+                          ),
+                        ),
+                    ],
+                  ),
+                ),
               ),
-            )
+            ),
+          );
+        }).toList(),
+      ),
+    ),
+  ),
+)
+
+
+
+
+
           ],
         ),
       ),
